@@ -1,0 +1,8 @@
+*.tfstate*
+.terraform
+*.key
+*.zip
+node_modules
+*.iml
+*.idea
+*.DS_Store
